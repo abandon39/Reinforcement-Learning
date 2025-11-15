@@ -32,4 +32,4 @@ This repository documents my implementation of DQN-based solutions for the **Mou
 
 ### ★Supplement
 - The 0_DQN folder contains a completely rewritten version of my DQN implementation.
-- Since the PDF report has already been submitted, only the code is uploaded to the GitHub repository.
+- Since the PDF report has already been submitted, I only uploaded the code to the GitHub repository.
