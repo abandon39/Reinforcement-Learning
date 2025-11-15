@@ -29,3 +29,7 @@ This repository documents my implementation of DQN-based solutions for the **Mou
 ### Results & Visualizations
 - Various **PNG files** - Result visualizations and analysis plots
 - **GIF files** - Animations of successful runs, including the **83-step ascent** mentioned in the course practice report
+
+### ★Supplement
+- The 0_DQN folder contains a completely rewritten version of my DQN implementation.
+- Since the PDF report has already been submitted, only the code is uploaded to the GitHub repository.
